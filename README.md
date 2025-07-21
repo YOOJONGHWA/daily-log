@@ -1,9 +1,26 @@
-# [daily-log](https://roadmap.sh/backend)
+# 📅 Daily Learning Log
 
-### 📘Java Collections
+매일 배운 것을 기록하는 공간입니다.  
+프로그래밍, 영어, 기타(책, 유튜브, 경험 등)로 나누어 기록합니다.
+한 줄이라도 괜찮으니 꾸준히 기록하는 것이 목표입니다.
 
-| Word      | Meaning       | Example Sentence                                                        |
-| --------- | ------------- | ----------------------------------------------------------------------- |
-| amortized | 분할 상환하다 | Adding an element takes amortized constant time O(1).                   |
-| ensures   | 보장하다      | The compiler ensures that we can’t use a non-compatible type.           |
-| retrieve  | 회수하다      | we don’t need to cast elements when retrieving them from a collection.. |
+---
+
+## 2025-07-20
+
+### 🗣️ English
+
+- BGIU으로 다시 기본으로 돌아가서공부 계획
+- 스피킹 매트릭스 벌써 아웃풋 7일째
+
+### 🧑‍💻 Programming
+
+- TDD 강의 듣고 있는데 TDD 보다 구현 하는 설계 방식을 더 많이 배우는 느낌.. 서비스 로직을 스트림으로 자유자제로 데이터를 가공하는게 멋져 보였음
+
+### 📚 Other
+
+- 스프링 영어 e-book을 읽고 있는데 생각보다 직관적인 단어가 많은거 같음
+
+- Reql Mysql 을 읽고 있는데 아직 공감가는 부분은 많지 않음 책이 어렵기도 한데 지나치게 글로만 설명한 부분이 많음
+
+- 데이터 접근 핵신 원리를 다시 PDF로 정독증 좀 더 쉽게 이해하는거 같으면서도 꼬리에 꼬리를 무는 질문이 생긴다..
